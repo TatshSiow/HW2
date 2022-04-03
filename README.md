@@ -1,2 +1,2 @@
 # HW2
-Homework NUTC
+**Blocking and Non-blocking Circuit Design**
